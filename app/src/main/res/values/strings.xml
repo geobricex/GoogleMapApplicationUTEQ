@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Google Maps - UTEQ</string>
+    <string name="mas">+</string>
+    <string name="normal">Mapa Normal</string>
+    <string name="satelital">Mapa Satelital</string>
+    <string name="hibrido">Mapa Hibrido</string>
+</resources>

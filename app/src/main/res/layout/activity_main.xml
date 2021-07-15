@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    >
+
+    <fragment
+        android:id="@+id/frgMapGoogle"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        tools:context=".MainActivity" />
+
+    <com.getbase.floatingactionbutton.FloatingActionsMenu
+        android:id="@+id/grpMenu"
+        android:layout_width="74dp"
+        android:layout_height="296dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="307dp"
+        android:layout_marginEnd="337dp"
+        android:layout_marginBottom="0dp"
+        app:fab_addButtonColorNormal="@color/sextenary"
+        app:fab_addButtonPlusIconColor="@color/primary"
+        app:fab_addButtonSize="normal"
+        app:fab_labelsPosition="right">
+
+        <com.getbase.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fgbtnNormal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fab_icon="@drawable/mapgoogle"
+            app:fab_size="normal"
+            app:fab_title="@string/normal"
+            app:fab_colorNormal="@color/sextenary"/>
+
+        <com.getbase.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fgbtnSatellite"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fab_icon="@drawable/satellite"
+            app:fab_size="normal"
+            app:fab_title="@string/satelital"
+            app:fab_colorNormal="@color/sextenary"/>
+
+        <com.getbase.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fgbtnHybrid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fab_icon="@drawable/hibrido"
+            app:fab_size="normal"
+            app:fab_title="@string/hibrido"
+            app:fab_colorNormal="@color/sextenary"/>
+
+    </com.getbase.floatingactionbutton.FloatingActionsMenu>
+</RelativeLayout>

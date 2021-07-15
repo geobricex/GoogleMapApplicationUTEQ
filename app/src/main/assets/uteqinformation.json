@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Facultad de Ciencias Empresariales",
+    "direction": "Campus 'Ingeniero Manuel Agustín Haz Álvarez', Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
+    "authority": "Ing. Mariela Susana Andrade Arias, PhD.",
+    "contact": "facultadce@uteq.edu.ec",
+    "logo": "https://www.uteq.edu.ec/images/about/logo_fce.jpg",
+    "latitude": -1.0121740313099747,
+    "longitude": -79.47007644954464
+  },
+  {
+    "name": "Facultad de Ciencias de la Ingeniería",
+    "direction": "Campus 'Ingeniero Manuel Agustín Haz Álvarez', Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
+    "authority": "Ing. Washington Alberto Chiriboga Casanova, M.Sc.",
+    "contact": "facultadci@uteq.edu.ec",
+    "logo": "https://www.uteq.edu.ec/images/about/logo_fci.jpg",
+    "latitude": -1.0125772416600838,
+    "longitude": -79.47043092589146
+  },
+  {
+    "name": "Facultad de Ciencias Empresariales",
+    "direction": "Campus 'Ingeniero Manuel Agustín Haz Álvarez', Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
+    "authority": "",
+    "contact": "facultadce@uteq.edu.ec",
+    "logo": "https://www.uteq.edu.ec/images/about/logo_fce.jpg",
+    "latitude": -1.0121740313099747,
+    "longitude": -79.47007644954464
+  },
+  {
+    "name": "Facultad de Ciencias Agropecuarias",
+    "direction": "Campus 'La María', km 7 vía Quevedo-El Empalme",
+    "authority": "Ing. Leonardo Gonzalo Matute, M.Sc.",
+    "contact": "decanato_agropecuarias@uteq.edu.ec",
+    "logo": "https://www.uteq.edu.ec/images/about/logo_fcagrop.jpg",
+    "latitude": -1.0810259049531765,
+    "longitude": -79.50200330824408
+  },
+  {
+    "name": "Facultad de Ciencias de la Industria y Producción",
+    "direction": "Campus 'La María', km 7 vía Quevedo-El Empalme",
+    "authority": "Ing. Sonnia Esther Barzola Miranda, M.Sc.",
+    "contact": "fcip@uteq.edu.ec",
+    "logo": "https://www.uteq.edu.ec/images/about/logo_fcip.jpg",
+    "latitude": -1.0126243773616503,
+    "longitude": -79.47107994830553
+  }
+]
